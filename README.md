@@ -32,8 +32,9 @@ All the Project Submissions have to done by making an issue in this repository. 
 3. Specify appropriate project field from the checklist, please delete anything that does not matter to you.
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
-## Project Theams:
-Choose from the below themes
+## Project Themes:
+
+You can design , develop or do a technical case challenge from the below themes
 <p align="center">
   <img src="https://i.ibb.co/MR2ZPh2/Screenshot-2022-01-05-8-20-18-PM.png" />
 </p>
